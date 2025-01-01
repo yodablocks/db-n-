@@ -1,0 +1,37 @@
+[{
+  "event_type": "transfer"
+}, {
+  "event_type": "coin_received"
+}, {
+  "event_type": "burn"
+}, {
+  "event_type": "coinbase"
+}, {
+  "event_type": "fee_distribution"
+}, {
+  "event_type": "ibc_transfer"
+}, {
+  "event_type": "TickUpdate"
+}, {
+  "event_type": "neutron"
+}, {
+  "event_type": "send_packet"
+}, {
+  "event_type": "vsc_matured"
+}, {
+  "event_type": "admin_proposal"
+}, {
+  "event_type": "coin_spent"
+}, {
+  "event_type": "message"
+}, {
+  "event_type": "sudo"
+}, {
+  "event_type": "wasm"
+}, {
+  "event_type": "consumer_slash_request"
+}, {
+  "event_type": "liveness"
+}, {
+  "event_type": "slash"
+}]

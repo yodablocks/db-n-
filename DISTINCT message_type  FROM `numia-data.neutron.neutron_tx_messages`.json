@@ -1,0 +1,97 @@
+[{
+  "message_type": "/ibc.core.client.v1.MsgUpdateClient"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgForceTransfer"
+}, {
+  "message_type": "/ibc.core.client.v1.MsgCreateClient"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgMigrateContract"
+}, {
+  "message_type": "/neutron.interchainqueries.MsgRemoveInterchainQueryRequest"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgChannelOpenAck"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgChangeAdmin"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgTimeout"
+}, {
+  "message_type": "/neutron.dex.MsgPlaceLimitOrder"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgInstantiateContract2"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgStoreCode"
+}, {
+  "message_type": "/neutron.dex.MsgWithdrawFilledLimitOrder"
+}, {
+  "message_type": "/ibc.core.connection.v1.MsgConnectionOpenConfirm"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgUpdateAdmin"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgMint"
+}, {
+  "message_type": "/neutron.dex.MsgCancelLimitOrder"
+}, {
+  "message_type": "/ibc.core.connection.v1.MsgConnectionOpenTry"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgSetDenomMetadata"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgBurn"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgChannelOpenTry"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgExecuteContract"
+}, {
+  "message_type": "/ibc.core.connection.v1.MsgConnectionOpenAck"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgAcknowledgement"
+}, {
+  "message_type": "/ibc.applications.transfer.v1.MsgTransfer"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgChannelOpenInit"
+}, {
+  "message_type": "/slinky.marketmap.v1.MsgUpsertMarkets"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgSetBeforeSendHook"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgChannelOpenConfirm"
+}, {
+  "message_type": "/neutron.dex.MsgWithdrawal"
+}, {
+  "message_type": "/cosmos.bank.v1beta1.MsgSend"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgInstantiateContract"
+}, {
+  "message_type": "/osmosis.tokenfactory.v1beta1.MsgCreateDenom"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgUpdateContractLabel"
+}, {
+  "message_type": "/cosmos.feegrant.v1beta1.MsgGrantAllowance"
+}, {
+  "message_type": "/neutron.transfer.MsgTransfer"
+}, {
+  "message_type": "/cosmos.authz.v1beta1.MsgGrant"
+}, {
+  "message_type": "/neutron.interchainqueries.MsgSubmitQueryResult"
+}, {
+  "message_type": "/ibc.core.connection.v1.MsgConnectionOpenInit"
+}, {
+  "message_type": "/cosmos.authz.v1beta1.MsgRevoke"
+}, {
+  "message_type": "/ibc.applications.interchain_accounts.controller.v1.MsgRegisterInterchainAccount"
+}, {
+  "message_type": "/cosmos.feegrant.v1beta1.MsgRevokeAllowance"
+}, {
+  "message_type": "/neutron.dex.MsgDeposit"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgChannelCloseConfirm"
+}, {
+  "message_type": "/cosmos.authz.v1beta1.MsgExec"
+}, {
+  "message_type": "/cosmwasm.wasm.v1.MsgClearAdmin"
+}, {
+  "message_type": "/sdk.auction.v1.MsgAuctionBid"
+}, {
+  "message_type": "/ibc.core.channel.v1.MsgRecvPacket"
+}, {
+  "message_type": "/cosmos.bank.v1beta1.MsgMultiSend"
+}]

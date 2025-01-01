@@ -1,0 +1,141 @@
+[{
+  "key": "packet_data_hex"
+}, {
+  "key": "address"
+}, {
+  "key": "_contract_address"
+}, {
+  "key": "reason"
+}, {
+  "key": "packet_sequence"
+}, {
+  "key": "valset_update_id\\"
+}, {
+  "key": "TokenIn"
+}, {
+  "key": "spender"
+}, {
+  "key": "jailed"
+}, {
+  "key": "Reserves"
+}, {
+  "key": "amount"
+}, {
+  "key": "receiver\\"
+}, {
+  "key": "mode"
+}, {
+  "key": "action"
+}, {
+  "key": "packet_data"
+}, {
+  "key": "method"
+}, {
+  "key": "amount\\"
+}, {
+  "key": "TokenOne"
+}, {
+  "key": "module"
+}, {
+  "key": "packet_dst_channel"
+}, {
+  "key": "infraction\\"
+}, {
+  "key": "validator_address"
+}, {
+  "key": "TickIndex"
+}, {
+  "key": "infraction_type"
+}, {
+  "key": "pair_id"
+}, {
+  "key": "quota"
+}, {
+  "key": "power"
+}, {
+  "key": "validator\\"
+}, {
+  "key": "proposal_result"
+}, {
+  "key": "packet_timeout_height"
+}, {
+  "key": "current_distribution_height"
+}, {
+  "key": "valset_update_id"
+}, {
+  "key": "next_distribution_height"
+}, {
+  "key": "proposal_id"
+}, {
+  "key": "type\\"
+}, {
+  "key": "packet_src_channel"
+}, {
+  "key": "sender"
+}, {
+  "key": "chain_id"
+}, {
+  "key": "vscMaturedPacketData\\"
+}, {
+  "key": "slashPacketData\\"
+}, {
+  "key": "packet_connection"
+}, {
+  "key": "packet_dst_port"
+}, {
+  "key": "timestamp"
+}, {
+  "key": "distribution_fraction"
+}, {
+  "key": "liquidity_tick_type"
+}, {
+  "key": "provider_amount"
+}, {
+  "key": "packet_src_port"
+}, {
+  "key": "power\\"
+}, {
+  "key": "memo\\"
+}, {
+  "key": "packet_timeout_timestamp"
+}, {
+  "key": "consumer_height"
+}, {
+  "key": "denom"
+}, {
+  "key": "channel_id"
+}, {
+  "key": "connection_id"
+}, {
+  "key": "sender\\"
+}, {
+  "key": "receiver"
+}, {
+  "key": "missed_blocks"
+}, {
+  "key": "minter"
+}, {
+  "key": "burner"
+}, {
+  "key": "packet_channel_ordering"
+}, {
+  "key": "address\\"
+}, {
+  "key": "TrancheKey"
+}, {
+  "key": "denom\\"
+}, {
+  "key": "is_expiring_limit_order"
+}, {
+  "key": "burned_coins"
+}, {
+  "key": "recipient"
+}, {
+  "key": "TokenZero"
+}, {
+  "key": "total"
+}, {
+  "key": "height"
+}, {
+  "key": "memo"
+}]

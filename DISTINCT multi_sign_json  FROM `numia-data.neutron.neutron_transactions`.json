@@ -1,0 +1,77 @@
+[{
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"type\":\"Buffer\",\"data\":[192]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"type\":\"Buffer\",\"data\":[152]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":160}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":152}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":4,\"elems\":{\"0\":80}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":176}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":200}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":224}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":2,\"elems\":{\"0\":64}},\"modeInfos\":[{\"single\":{\"mode\":1}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":2,\"elems\":{\"type\":\"Buffer\",\"data\":[64]}},\"modeInfos\":[{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":184}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":112}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":96}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":232}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":248}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":4,\"elems\":{\"type\":\"Buffer\",\"data\":[112]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":4,\"elems\":{\"type\":\"Buffer\",\"data\":[208]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":168}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":4,\"elems\":{\"0\":112}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":56}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":2,\"elems\":{\"0\":128}},\"modeInfos\":[{\"single\":{\"mode\":1}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":8}},\"modeInfos\":[{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":192}},\"modeInfos\":[{\"single\":{\"mode\":1}},{\"single\":{\"mode\":1}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"type\":\"Buffer\",\"data\":[160]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":104}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":120}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":96}},\"modeInfos\":[{\"single\":{\"mode\":1}},{\"single\":{\"mode\":1}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":4,\"elems\":{\"0\":144}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":240}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":216}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":2,\"elems\":{\"0\":64}},\"modeInfos\":[{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"0\":192}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":16}},\"modeInfos\":[{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":88}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":24}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": null
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":3,\"elems\":{\"type\":\"Buffer\",\"data\":[96]}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}, {
+  "multi_sign_json": "[{\"multi\":{\"bitarray\":{\"extraBitsStored\":5,\"elems\":{\"0\":224}},\"modeInfos\":[{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}},{\"single\":{\"mode\":127}}]}}]"
+}]

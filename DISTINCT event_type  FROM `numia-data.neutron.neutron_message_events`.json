@@ -1,0 +1,957 @@
+[{
+  "event_type": "wasm-astrovault-ratio_pool_factory-update_direct_ratios"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-ibc_cross_swap"
+}, {
+  "event_type": "wasm-execute-limit-order"
+}, {
+  "event_type": "wasm-astrovault-cashback_minter-update_assets_mint_ratio"
+}, {
+  "event_type": "wasm-handle_set"
+}, {
+  "event_type": "wasm"
+}, {
+  "event_type": "wasm-liquidity-pool-size-7"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-withdrawal-manager-instantiate"
+}, {
+  "event_type": "wasm-puppeteer-base-reply-ibc-transfer-payload-received"
+}, {
+  "event_type": "wasm-position-close"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-swap"
+}, {
+  "event_type": "wasm-liquidity-lock"
+}, {
+  "event_type": "wasm-astrovault-standard_pool_factory-create_pair"
+}, {
+  "event_type": "wasm-hpl_igp_core::initialize"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-update_config"
+}, {
+  "event_type": "coin_spent"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-2"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-tick_staking_bond"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-factory-execute-update-config"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-update_config"
+}, {
+  "event_type": "wasm-rebalance-account"
+}, {
+  "event_type": "tf_burn"
+}, {
+  "event_type": "wasm-astrovault-bulk_distributor-update_allocation"
+}, {
+  "event_type": "wasm-apollo/cw-dex/unstake"
+}, {
+  "event_type": "wasm-register-referrer"
+}, {
+  "event_type": "wasm-apollo/vault-zapper/callback_enforce_min_out"
+}, {
+  "event_type": "wasm-crank-work-3"
+}, {
+  "event_type": "wasm-astrovault-stable_pool_factory-update_config"
+}, {
+  "event_type": "wasm-collect"
+}, {
+  "event_type": "wasm-hpl_connection::set_hook"
+}, {
+  "event_type": "wasm-crank-fee-2"
+}, {
+  "event_type": "update_feegrant"
+}, {
+  "event_type": "wasm-instantiate"
+}, {
+  "event_type": "wasm-sub_chain_mint_ibc_transfer"
+}, {
+  "event_type": "wasm-propose_transaction"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-factory-instantiate"
+}, {
+  "event_type": "ibccallbackerror-reply"
+}, {
+  "event_type": "reply"
+}, {
+  "event_type": "wasm-funding-rate-change-1"
+}, {
+  "event_type": "wasm-apollo/vault-zapper/withdraw"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-puppeteer-stake"
+}, {
+  "event_type": "change_admin"
+}, {
+  "event_type": "ibccallbackerror-wasm-crates.io:drop-staking__drop-core-execute-bond"
+}, {
+  "event_type": "wasm-history-trade-volume-1"
+}, {
+  "event_type": "wasm-history-lp-yield"
+}, {
+  "event_type": "wasm-igp-core-set-default-gas"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-sudo-response"
+}, {
+  "event_type": "wasm-history-position-action-1"
+}, {
+  "event_type": "wasm-new-auction"
+}, {
+  "event_type": "wasm-astrovault-cashback_minter-update_config"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-standard_pool-swap"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-farm_deposit_hook"
+}, {
+  "event_type": "wasm-liquidity-update-1"
+}, {
+  "event_type": "wasm-mars/incentives/update_user_lp_position"
+}, {
+  "event_type": "wasm-apollo/vaults/execute_redeem"
+}, {
+  "event_type": "wasm-astrovault-bulk_distributor-delete_expired_bulks"
+}, {
+  "event_type": "ibccallbackerror-fungible_token_packet"
+}, {
+  "event_type": "wasm-apollo/astroport-liquidity-helper/execute_callback_provide_liquidity"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_factory-create_ratio_pool"
+}, {
+  "event_type": "coin_received"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-puppeteer_hook"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-1"
+}, {
+  "event_type": "wasm-repay"
+}, {
+  "event_type": "create_market"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-cashback-mint"
+}, {
+  "event_type": "wasm-hpl_warp_native::transfer-remote"
+}, {
+  "event_type": "wasm-apollo/neutron-astroport-reward-distributor/execute_internal_lp_redeemed"
+}, {
+  "event_type": "store_code"
+}, {
+  "event_type": "wasm-liquidity-deposit"
+}, {
+  "event_type": "update_client"
+}, {
+  "event_type": "channel_open_try"
+}, {
+  "event_type": "wasm-astrovault-bulk_distributor-new_bulk_reward"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-on_packet_failure"
+}, {
+  "event_type": "wasm-shitcoin-garden"
+}, {
+  "event_type": "wasm-liquidity-update-4"
+}, {
+  "event_type": "TickUpdate"
+}, {
+  "event_type": "wasm-apollo/cw-dex/provide_liquidity"
+}, {
+  "event_type": "ibc_transfer"
+}, {
+  "event_type": "tf_mint"
+}, {
+  "event_type": "wasm-create_wallet"
+}, {
+  "event_type": "wasm-fee-5"
+}, {
+  "event_type": "wasm-funding-rate-change-4"
+}, {
+  "event_type": "wasm-liquidity-unlock"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-pool_withdrawal_hook"
+}, {
+  "event_type": "wasm-deferred-exec-executed"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_lockups-hybrid_withdrawal_from_lockup"
+}, {
+  "event_type": "cosmos.authz.v1beta1.EventGrant"
+}, {
+  "event_type": "wasm-add-allow-list"
+}, {
+  "event_type": "wasm-mailbox_required_hook_set"
+}, {
+  "event_type": "ibc-acknowledgement-error"
+}, {
+  "event_type": "wasm-set-winner"
+}, {
+  "event_type": "create_client"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-execute-update-ownership"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-cashback_minter-receive_swap_data"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-tick_peripheral"
+}, {
+  "event_type": "transfer"
+}, {
+  "event_type": "wasm-puppeteer-base-sudo-tx-payload-received"
+}, {
+  "event_type": "wasm-astrovault-mint_distributor-update_external_mint_allowlist"
+}, {
+  "event_type": "wasm-liquidity-update-3"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-cross_swap_self_callback"
+}, {
+  "event_type": "wasm-astrovault-mint_distributor-external_mint"
+}, {
+  "event_type": "set_feegrant"
+}, {
+  "event_type": "ibccallbackerror-ibc-acknowledgement-error"
+}, {
+  "event_type": "wasm-hpl_ism_pausable::initialize"
+}, {
+  "event_type": "wasm-astrovault-cashback_minter-add_pools"
+}, {
+  "event_type": "wasm-hpl_hook_merkle::initialize"
+}, {
+  "event_type": "wasm-astrovault-stable_pool_factory-update_stable_pool_info"
+}, {
+  "event_type": "wasm-CallMessage"
+}, {
+  "event_type": "wasm-apollo/cw-dex/stake"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-rewards_to_bulk"
+}, {
+  "event_type": "channel_open_init"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-sudo-error"
+}, {
+  "event_type": "wasm-hpl_hook_aggregate::post_dispatch"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-redemption-rate-adapter-instantiate"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-instantiate"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_factory-add_allow_native_token"
+}, {
+  "event_type": "wasm-liquidity-pool-size-6"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-update_config"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-stable_pool-swap"
+}, {
+  "event_type": "wasm-crank-batch-exec"
+}, {
+  "event_type": "wasm-execute_provide_liquidity"
+}, {
+  "event_type": "wasm-unlocking_position_created"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-tick_unbonding"
+}, {
+  "event_type": "connection_open_ack"
+}, {
+  "event_type": "wasm-astrovault-standard_pool_factory-update_config"
+}, {
+  "event_type": "distribute_timeout_fee"
+}, {
+  "event_type": "wasm-ism_multisig_enroll_validator"
+}, {
+  "event_type": "wasm-history-pnl-2"
+}, {
+  "event_type": "wasm-hpl_warp_native::handle"
+}, {
+  "event_type": "wasm-liquidity-pool-size-1"
+}, {
+  "event_type": "wasm-set_vault"
+}, {
+  "event_type": "wasm-astrovault-cashback-mint"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-on_packet_success"
+}, {
+  "event_type": "wasm-funding-rate-change-2"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-external_mint"
+}, {
+  "event_type": "wasm-borrow-fee-change-4"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-update_external_mint_allowlist"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-mint_derivative"
+}, {
+  "event_type": "use_feegrant"
+}, {
+  "event_type": "wasm-borrow-fee-change-2"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-exec_pause"
+}, {
+  "event_type": "wasm-funding-payment-2"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-native-bond-provider-instantiate"
+}, {
+  "event_type": "wasm-liquidity-pool-size-4"
+}, {
+  "event_type": "wasm-position-update"
+}, {
+  "event_type": "wasm-position-open"
+}, {
+  "event_type": "wasm-crank-work-2"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-advance_window"
+}, {
+  "event_type": "wasm-puppeteer-base-register-ica"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-router-finalize_route"
+}, {
+  "event_type": "wasm-igp-core-post-dispatch"
+}, {
+  "event_type": "send_packet"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-3"
+}, {
+  "event_type": "wasm-history-pnl-1"
+}, {
+  "event_type": "wasm-history-lp-action-1"
+}, {
+  "event_type": "wasm-apollo/cw-dex/claim_rewards"
+}, {
+  "event_type": "wasm-puppeteer-base-sudo-ibc-transfer-payload-received"
+}, {
+  "event_type": "wasm-fees-returned"
+}, {
+  "event_type": "wasm-fees"
+}, {
+  "event_type": "wasm-astrovault-cashback-notify_allocation"
+}, {
+  "event_type": "wasm-apollo/neutron-astroport-reward-distributor/execute_distribute"
+}, {
+  "event_type": "connection_open_confirm"
+}, {
+  "event_type": "ibccallbackerror-coin_spent"
+}, {
+  "event_type": "wasm-astrovault-mint_distributor-update_config"
+}, {
+  "event_type": "coinbase"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-5"
+}, {
+  "event_type": "timeout"
+}, {
+  "event_type": "wasm-mint"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-ibc_transfer"
+}, {
+  "event_type": "wasm-sub_chain_mint_local_transfer"
+}, {
+  "event_type": "wasm-astrovault-standard_pool-update_cashback"
+}, {
+  "event_type": "wasm-funding-rate-change-3"
+}, {
+  "event_type": "wasm-astrovault-cashback-change_reward_source"
+}, {
+  "event_type": "tx"
+}, {
+  "event_type": "wasm-match_started"
+}, {
+  "event_type": "wasm-match_aborted"
+}, {
+  "event_type": "wasm-history-pnl"
+}, {
+  "event_type": "wasm-withdraw"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-instantiate"
+}, {
+  "event_type": "wasm-hpl_warp_native::instantiate"
+}, {
+  "event_type": "wasm-crank-work-5"
+}, {
+  "event_type": "wasm-funding-payment"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-4"
+}, {
+  "event_type": "force_transfer"
+}, {
+  "event_type": "wasm-create_membership"
+}, {
+  "event_type": "wasm-burn-2"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-distribution-instantiate"
+}, {
+  "event_type": "wasm-delta-neutrality-fee-1"
+}, {
+  "event_type": "wasm-liquidity-withdraw"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-native-bond-provider-execute-puppeteer_hook"
+}, {
+  "event_type": "wasm-signer"
+}, {
+  "event_type": "wasm-home_chain_mint"
+}, {
+  "event_type": "TrancheUserUpdate"
+}, {
+  "event_type": "wasm-channel_open_confirm"
+}, {
+  "event_type": "wasm-ics721_receive_redeem_vouchers"
+}, {
+  "event_type": "wasm-burn"
+}, {
+  "event_type": "wasm-crates.io:drop-points__drop-points-token-set_balance"
+}, {
+  "event_type": "wasm-puppeteer-base-sudo-kv-query-payload-received"
+}, {
+  "event_type": "wasm-hpl_router::set_routes"
+}, {
+  "event_type": "wasm-wallet_execute_transaction"
+}, {
+  "event_type": "wasm-astrovault-standard_pool-provide_liquidity"
+}, {
+  "event_type": "ibccallbackerror-message"
+}, {
+  "event_type": "wasm-create_vote"
+}, {
+  "event_type": "wasm-hpl_ownable::init"
+}, {
+  "event_type": "wasm-hpl_router::set_route"
+}, {
+  "event_type": "wasm-astrovault-cashback-update_minters"
+}, {
+  "event_type": "wasm-astrovault-stable_pool_factory-create_pool"
+}, {
+  "event_type": "wasm-cvm.executor.self.failed"
+}, {
+  "event_type": "wasm-delta-neutrality-fee-2"
+}, {
+  "event_type": "wasm-liquidity-update"
+}, {
+  "event_type": "channel_close_confirm"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-update_mint_derivative_allowlist"
+}, {
+  "event_type": "wasm-connection_open_try"
+}, {
+  "event_type": "channel_close_init"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-ratio_pool-swap"
+}, {
+  "event_type": "wasm-astrovault-router-handle_route"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-unbond"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-on_packet_receive"
+}, {
+  "event_type": "wasm-apollo/cw-dex-router/basket_liquidate"
+}, {
+  "event_type": "connection_open_try"
+}, {
+  "event_type": "auction_bid"
+}, {
+  "event_type": "burn"
+}, {
+  "event_type": "wasm-apollo/astroport-liquidity-helper/execute_balancing_provide_liquidity"
+}, {
+  "event_type": "wasm-update_client"
+}, {
+  "event_type": "ibccallbackerror-wasm-hpl_warp_native::transfer-remote"
+}, {
+  "event_type": "execute"
+}, {
+  "event_type": "wasm-crank-fee-1"
+}, {
+  "event_type": "wasm-add-market"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-router-execute_hop"
+}, {
+  "event_type": "timeout_packet"
+}, {
+  "event_type": "wasm-execute_withdraw_liquidity"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-receive_staking_rewards"
+}, {
+  "event_type": "wasm-funding-payment-1"
+}, {
+  "event_type": "ibccallbackerror-instantiate"
+}, {
+  "event_type": "wasm-wallet_update_admins"
+}, {
+  "event_type": "fungible_token_packet"
+}, {
+  "event_type": "wasm-puppeteer-base-reply-tx-payload-received"
+}, {
+  "event_type": "wasm-close-auction"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-set_channel_mappings"
+}, {
+  "event_type": "wasm-fee-2"
+}, {
+  "event_type": "wasm-astrovault-mint_distributor-update_allocation"
+}, {
+  "event_type": "wasm-ism_multisig_set_validators"
+}, {
+  "event_type": "wasm-hpl_connection::set_ism"
+}, {
+  "event_type": "wasm-CallMessageSent"
+}, {
+  "event_type": "wasm-fee"
+}, {
+  "event_type": "update_contract_admin"
+}, {
+  "event_type": "wasm-validator-announcement"
+}, {
+  "event_type": "wasm-crank-work-1"
+}, {
+  "event_type": "wasm-position-save-1"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-receive_lockup_metrics"
+}, {
+  "event_type": "wasm-mars/incentives/claimed_astro_incentive_rewards"
+}, {
+  "event_type": "wasm-register_collection"
+}, {
+  "event_type": "wasm-cvm.executor.instantiated"
+}, {
+  "event_type": "wasm-mailbox_dispatch"
+}, {
+  "event_type": "wasm-igp-core-pay-for-gas"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio"
+}, {
+  "event_type": "wasm-create_client"
+}, {
+  "event_type": "wasm-match_created"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-swap_mint_with_callback"
+}, {
+  "event_type": "wasm-valence-event"
+}, {
+  "event_type": "ibccallbackerror-denomination_trace"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-sudo-error"
+}, {
+  "event_type": "wasm-crank-work"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-tick_idle"
+}, {
+  "event_type": "wasm-astrovault-cashback-update_allocation"
+}, {
+  "event_type": "ibccallbackerror-coin_received"
+}, {
+  "event_type": "ibccallbackerror-coinbase"
+}, {
+  "event_type": "wasm-borrow-fee-change-3"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-claim"
+}, {
+  "event_type": "wasm-position-save"
+}, {
+  "event_type": "wasm-set-gas-configs"
+}, {
+  "event_type": "ics27_packet"
+}, {
+  "event_type": "wasm-funding-rate-change"
+}, {
+  "event_type": "wasm-liquidity-pool-size-3"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-withdrawal"
+}, {
+  "event_type": "wasm-provide_liquidity"
+}, {
+  "event_type": "wasm-astrovault-cashback-burn"
+}, {
+  "event_type": "wasm-mailbox_instantiated"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_factory-update_config"
+}, {
+  "event_type": "ibccallbackerror-neutron"
+}, {
+  "event_type": "wasm-withdraw_and_swap"
+}, {
+  "event_type": "wasm-ism_multisig_unenroll_validator"
+}, {
+  "event_type": "wasm-channel_id_created"
+}, {
+  "event_type": "wasm-history-trade-volume-2"
+}, {
+  "event_type": "ibccallbackerror-wasm-astrovault-router-handle_route"
+}, {
+  "event_type": "lock_fees"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-direct_staking"
+}, {
+  "event_type": "wasm-execute_callback_return_lp_tokens"
+}, {
+  "event_type": "ibccallbackerror-wasm"
+}, {
+  "event_type": "wasm-execute_proposal"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-receive_unbound_assets"
+}, {
+  "event_type": "wasm-astrovault-standard_pool_factory-update_standard_pool_info"
+}, {
+  "event_type": "wasm-fee-4"
+}, {
+  "event_type": "wasm-apollo/astroport-liquidity-helper/execute_callback_return_lp_tokens"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-direct_staking"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-strategy-instantiate"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-withdrawal-manager-execute-receive_nft"
+}, {
+  "event_type": "create_denom"
+}, {
+  "event_type": "cosmos.authz.v1beta1.EventRevoke"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-register-ica"
+}, {
+  "event_type": "wasm-provide"
+}, {
+  "event_type": "wasm-apollo/neutron-astroport-reward-distributor/execute_update_config"
+}, {
+  "event_type": "update_contract_label"
+}, {
+  "event_type": "wasm-hpl_hook_merkle::post_dispatch"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-hybrid_provide_liquidity"
+}, {
+  "event_type": "wasm-history-lp-action-2"
+}, {
+  "event_type": "wasm-drop-token-reply-create-denom"
+}, {
+  "event_type": "wasm-referral-reward"
+}, {
+  "event_type": "instantiate"
+}, {
+  "event_type": "wasm-deferred-exec-queued"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-pool_deposit_hook"
+}, {
+  "event_type": "channel_close"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-6"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-validators-set-instantiate"
+}, {
+  "event_type": "ibccallbackerror-tf_mint"
+}, {
+  "event_type": "wasm-insufficient-margin"
+}, {
+  "event_type": "wasm-drop-token-execute-burn"
+}, {
+  "event_type": "ibc_packet_received"
+}, {
+  "event_type": "wasm-withdraw_liquidity"
+}, {
+  "event_type": "wasm-channel_open_try"
+}, {
+  "event_type": "wasm-move_executed"
+}, {
+  "event_type": "tip_pay"
+}, {
+  "event_type": "wasm-astrovault-cashback_minter-receive_swap_data"
+}, {
+  "event_type": "distribute_ack_fee"
+}, {
+  "event_type": "wasm-fee-1"
+}, {
+  "event_type": "neutron"
+}, {
+  "event_type": "wasm-apollo/vault-zapper/execute_deposit"
+}, {
+  "event_type": "wasm-recv_packet"
+}, {
+  "event_type": "wasm-cvm.outpost"
+}, {
+  "event_type": "wasm-ics721_receive_create_vouchers"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-lsm-share-bond-provider-instantiate"
+}, {
+  "event_type": "wasm-puppeteer-sudo-response"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-pump-push"
+}, {
+  "event_type": "wasm-borrow-fee-change"
+}, {
+  "event_type": "wasm-astrovault-router-finalize_route"
+}, {
+  "event_type": "wasm-mars/incentives/balance_change"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-update_withdrawn_amount"
+}, {
+  "event_type": "wasm-rebalance_cycle"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_lockups-add_lockup"
+}, {
+  "event_type": "denomination_trace"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-swap"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-notify_allocation"
+}, {
+  "event_type": "wasm-spot-price"
+}, {
+  "event_type": "wasm-astrovault-router-execute_hop"
+}, {
+  "event_type": "wasm-history-lp-action"
+}, {
+  "event_type": "wasm-apollo/cw-dex-router/callback_execute_swap_operation"
+}, {
+  "event_type": "set_denom_metadata"
+}, {
+  "event_type": "wasm-astrovault-staking_derivative-trigger_unbond"
+}, {
+  "event_type": "wasm-apollo/vault-zapper/execute_zap_base_tokens"
+}, {
+  "event_type": "channel_established"
+}, {
+  "event_type": "wasm-burn-1"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-bond"
+}, {
+  "event_type": "set_before_send_hook"
+}, {
+  "event_type": "wasm-fail-rebalance"
+}, {
+  "event_type": "wasm-liquidity-pool-size-5"
+}, {
+  "event_type": "wasm-crank-fee-claimed"
+}, {
+  "event_type": "wasm-apollo/utils/assets"
+}, {
+  "event_type": "wasm-init-validator-announce"
+}, {
+  "event_type": "wasm-ism_multisig_set_threshold"
+}, {
+  "event_type": "wasm-position-close-2"
+}, {
+  "event_type": "ccv_packet"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-tick_claiming"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-update_allocation"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-factory-execute-proxy-call"
+}, {
+  "event_type": "wasm-drop-token-execute-mint"
+}, {
+  "event_type": "connection_open_init"
+}, {
+  "event_type": "wasm-interests_updated"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-native-bond-provider-process_on_idle"
+}, {
+  "event_type": "wasm-migrate"
+}, {
+  "event_type": "wasm-set-gas-config"
+}, {
+  "event_type": "write_acknowledgement"
+}, {
+  "event_type": "wasm-mailbox_process"
+}, {
+  "event_type": "wasm-liquidity-update-2"
+}, {
+  "event_type": "wasm-redeem"
+}, {
+  "event_type": "ibccallbackerror-TickUpdate"
+}, {
+  "event_type": "wasm-astrovault-standard_pool_factory-add_allow_native_token"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_factory-update_ratio_pool_info"
+}, {
+  "event_type": "wasm-update_config"
+}, {
+  "event_type": "wasm-astrovault-standard_pool-swap"
+}, {
+  "event_type": "wasm-history-trade-volume"
+}, {
+  "event_type": "wasm-add_app_component"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-add_reward_source"
+}, {
+  "event_type": "wasm-hpl_hook_pausable::initialize"
+}, {
+  "event_type": "sudo"
+}, {
+  "event_type": "wasm-liquidity-pool-size"
+}, {
+  "event_type": "wasm-history-position-action"
+}, {
+  "event_type": "wasm-astrovault-lp_staking-farm_withdrawal_hook"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-stake"
+}, {
+  "event_type": "wasm-apollo/cw-dex/swap"
+}, {
+  "event_type": "wasm-apollo/vaults/execute_withdraw_unlocked"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool_factory-update_default_swap_params"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-instantiate"
+}, {
+  "event_type": "pin_code"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-splitter-execute-distribute"
+}, {
+  "event_type": "channel_open_confirm"
+}, {
+  "event_type": "wasm-apollo/cw-dex/withdraw_liquidity"
+}, {
+  "event_type": "wasm-astrovault-standard_pool-direct_staking"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-update_cashback"
+}, {
+  "event_type": "wasm-open_contract"
+}, {
+  "event_type": "wasm-hpl_mock_hook::post-dispatch"
+}, {
+  "event_type": "wasm-liquidity-update-5"
+}, {
+  "event_type": "wasm-send_packet"
+}, {
+  "event_type": "wasm-mailbox_process_id"
+}, {
+  "event_type": "wasm-liquidity-pool-size-2"
+}, {
+  "event_type": "wasm-position-close-1"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-native-bond-provider-bond"
+}, {
+  "event_type": "migrate"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-factory-execute-admin"
+}, {
+  "event_type": "wasm-set_grants"
+}, {
+  "event_type": "wasm-apollo/vaults/execute_update_config"
+}, {
+  "event_type": "wasm-hpl_mock_hook::instantiate"
+}, {
+  "event_type": "wasm-init-igp-gas-oracle"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-operator_update_permissions"
+}, {
+  "event_type": "ibccallbackerror-execute"
+}, {
+  "event_type": "wasm-mars/incentives/update_whitelist"
+}, {
+  "event_type": "acknowledge_packet"
+}, {
+  "event_type": "wasm-place-limit-order"
+}, {
+  "event_type": "wasm-astrovault-standard_pool-withdraw_liquidity"
+}, {
+  "event_type": "wasm-connection_open_confirm"
+}, {
+  "event_type": "fee_transfer_channel_opened"
+}, {
+  "event_type": "wasm-apollo/vaults/execute_compound"
+}, {
+  "event_type": "wasm-crank-work-4"
+}, {
+  "event_type": "wasm-crank-fee"
+}, {
+  "event_type": "revoke_feegrant"
+}, {
+  "event_type": "wasm-astrovault-bulk_distributor-set_weights"
+}, {
+  "event_type": "wasm-astrovault-ibc_operator-set_counterparty"
+}, {
+  "event_type": "wasm-delta-neutrality-ratio-7"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-rewards-manager-instantiate"
+}, {
+  "event_type": "wasm-mars/incentives/claimed_lp_rewards"
+}, {
+  "event_type": "wasm-register_sudo"
+}, {
+  "event_type": "wasm-igp-core-claim"
+}, {
+  "event_type": "wasm-mailbox_dispatch_id"
+}, {
+  "event_type": "wasm-history-lp-deposit"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-sudo-response"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-staker_hook"
+}, {
+  "event_type": "wasm-wasm-abstract"
+}, {
+  "event_type": "wasm-match_won"
+}, {
+  "event_type": "wasm-hpl_hook_aggregate::initialize"
+}, {
+  "event_type": "wasm-hpl_hook_merkle::inserted_into_tree"
+}, {
+  "event_type": "wasm-abstract"
+}, {
+  "event_type": "ibccallbackerror-sudo"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-hybrid_withdrawal_to_lockup"
+}, {
+  "event_type": "wasm-astrovault-ratio_pool-update_cashback"
+}, {
+  "event_type": "wasm-insufficient-margin-2"
+}, {
+  "event_type": "wasm-crates.io:drop-neutron-contracts__drop-staker-register-ica"
+}, {
+  "event_type": "ibccallbackerror-ics27_packet"
+}, {
+  "event_type": "wasm-hpl_ownable::claim"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-validators-set-update_validators"
+}, {
+  "event_type": "wasm-insufficient-margin-1"
+}, {
+  "event_type": "fee_pay"
+}, {
+  "event_type": "recv_packet"
+}, {
+  "event_type": "wasm-cvm.executor.execution.started"
+}, {
+  "event_type": "wasm-delta-neutrality-fee"
+}, {
+  "event_type": "wasm-liquidity-unlock-1"
+}, {
+  "event_type": "submit_admin_proposal"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-exec_unpause"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-withdrawal_xasset_mode"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-factory-execute-update-ownership"
+}, {
+  "event_type": "wasm-history-position-action-2"
+}, {
+  "event_type": "mint"
+}, {
+  "event_type": "wasm-deposit"
+}, {
+  "event_type": "wasm-apollo/vaults/execute_deposit"
+}, {
+  "event_type": "wasm-mailbox_msg_received"
+}, {
+  "event_type": "wasm-mailbox_default_ism_set"
+}, {
+  "event_type": "channel_open_ack"
+}, {
+  "event_type": "wasm-mailbox_default_hook_set"
+}, {
+  "event_type": "wasm-borrow-fee-change-1"
+}, {
+  "event_type": "ibccallbackerror-transfer"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-update_config"
+}, {
+  "event_type": "message"
+}, {
+  "event_type": "wasm-crates.io:drop-points__drop-points-token-instantiate"
+}, {
+  "event_type": "wasm-ics721_ack_burn_vouchers"
+}, {
+  "event_type": "wasm-fee-3"
+}, {
+  "event_type": "wasm-astrovault-stable_pool-deposit"
+}, {
+  "event_type": "wasm-astrovault-stable_pool_factory-add_allow_native_token"
+}, {
+  "event_type": "wasm-added_coins"
+}, {
+  "event_type": "wasm-drop-token-instantiate"
+}, {
+  "event_type": "wasm-crates.io:drop-staking__drop-core-execute-add_bond_provider"
+}]
